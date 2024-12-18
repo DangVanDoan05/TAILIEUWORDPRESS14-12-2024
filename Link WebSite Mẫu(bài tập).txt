@@ -12,12 +12,9 @@ localhost:8888/phpmyadmin
 
 **** WebSite đang thiết kế :
 
--Web: http://localhost:8888/dangvandoan
-
-	TK: DANG VAN DOAN , MK: 123456
-
--Web COMPANY:( trang báo cáo)    http://localhost:8888/dongduongstore
-	tk: admin , MK: 123456
+- Mới ngày 18-12-2024:  http://localhost:8888/kamashop
+ cơ sở dữ liệu: ten csdl:  kamashop tk: kamashop pass: 123456
+  trang web  tai khoản admin: tk: admin pass: 123456
 
 -Web Online: https://kamagarden.vn/
 	tk: m1029dd   Pass: IT123456789
