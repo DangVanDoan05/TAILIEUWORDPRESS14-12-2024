@@ -1,0 +1,30 @@
+
+
+**** WebSite mẫu :
+
+https://takagivietnam.vn/
+
+
+**** Link CSDL: PHP MySQL
+
+localhost:8888/phpmyadmin
+
+
+**** WebSite đang thiết kế :
+
+- Mới ngày 18-12-2024:  http://localhost:8888/kamashop
+ cơ sở dữ liệu: ten csdl:  kamashop tk: kamashop pass: 123456
+  trang web  tai khoản admin: tk: admin pass: 123456
+
+**** WebSite đang thiết kế Online :
+
+-Web Online: https://kamagarden.vn/
+	tk: m1029dd   Pass: IT123456789
+
+**** Link học thiết kế WebSite Bán Hàng:
+
+Link 1:  https://www.youtube.com/watch?v=J8OKWPVFKL4
+
+Link 2:  https://www.youtube.com/watch?v=E-d4k09KeQ8
+
+
