@@ -12,7 +12,7 @@ localhost:8888/phpmyadmin
 
 **** WebSite đang thiết kế :
 
-- Mới ngày 18-12-2024:  http://localhost:8888/kamashop
+-Ngày 18-12-2024:  http://localhost:8888/kamashop
  cơ sở dữ liệu: ten csdl:  kamashop tk: kamashop pass: 123456
   trang web  tai khoản admin: tk: admin pass: 123456
 
