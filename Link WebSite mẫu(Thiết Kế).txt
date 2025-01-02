@@ -16,6 +16,12 @@ localhost:8888/phpmyadmin
  cơ sở dữ liệu: ten csdl:  kamashop tk: kamashop pass: 123456
   trang web  tai khoản admin: tk: admin pass: 123456
 
+**** Website công ty:
+https://dongduongpla.com.vn/wp-admin
+
+ID : IT01
+pass: USYWI4m3ThQiLw@EsZBg3tUB
+
 **** WebSite đang thiết kế Online :
 
 -Web Online: https://kamagarden.vn/
