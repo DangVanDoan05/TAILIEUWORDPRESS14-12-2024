@@ -1,0 +1,91 @@
+
+*** Code cho bảng trang giới thiệu.
+
+<style>
+.c1{background-color:#DCDCDC; }
+td{
+height:40px;
+}
+table, th, td
+{
+    border:2px solid #BEC3C4;
+}
+table{
+    border-collapse:collapse; /*Đoạn Code gộp đường viền*/
+}
+</style>
+
+
+
+***** CSS chuẩn:
+
+<style>
+.c1{background-color:#DCE0E0; }
+td{
+height:40px;
+}
+.c2{height:70px; }
+table, th, td{
+    border:2px solid #BEC3C4;<br />
+}
+table{
+    border-collapse:collapse;
+}</p>
+</style>
+
+
+
+**** Bảng lịch sử: // Chèn luôn trong cặp thẻ Table.
+
+
+<style>
+.c1{background-color:#DCE0E0; }
+.content{
+ width:1200px;
+}
+.ls{ // List khách hàng.
+ width:11%;
+height:80px;
+}
+.c2{height:70px; }
+table, th, td{
+    border:2px solid #BEC3C4;}
+table{
+    border-collapse:collapse;
+}</p>
+</style>
+
+**** Code cho phần sản phẩm.
+
+<style>
+.min{background-color:#DCE0E0; }
+
+td{
+height:40px;
+}
+.c2{height:70px; }
+table, th, td{
+    border:2px solid #BEC3C4;
+}
+table{
+    border-collapse:collapse;
+}</p>
+</style>
+
+*** Sửa bảng trong phần sản phẩm.
+
+<style>
+.min{background-color:#DCE0E0; }
+.content{
+ width:500px;
+}
+td{
+height:20px;
+}
+.c2{height:70px; }
+table, th, td{
+    border:2px solid #BEC3C4;
+}
+table{
+    border-collapse:collapse;
+}</p>
